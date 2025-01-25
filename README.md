@@ -1,6 +1,10 @@
 # BSc.IT-Project
 DensityBasedSmartTrafficSystem 
+
+
 INTRODUCTION 
+
+
 The need for a Traffic Control System
 Mostly in cities, traffic is becoming a prime problem for day to day life. The current traffic control 
 systems in metro cities are inefficient due to randomness in the traffic density pattern. The traffic 
